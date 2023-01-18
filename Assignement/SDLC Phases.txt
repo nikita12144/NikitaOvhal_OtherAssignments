@@ -1,0 +1,14 @@
+SDLC phases :
+1 communication: communication between stakeholders , end users and project team
+2 requrement gathering : geting the custostomer expectation/what user need/
+SRS(Software Requirement SpeciSfication)
+
+3 Feasibility study: understandable problem statement   , executable , studying requirement
+4 system analysis : information system can be analyzed, modeled.what type of s/w and h/w we have to design ,frontend and backend
+5 software design : representation of building software
+6 coding: we have to write code for backend and frontend
+7 Testing: identify bugs and errors ,developers find out whether their code and programming work according to customer requirements.
+8 Integration: combining separate software programs or elements into one system. combining different  modules together 
+9 Implementation: giving complete software product to end customer for checking
+10 Operation and maintenance: executing , operating the system, monitoring system performance,maintaining software wholetime 
+11 disposition :checking working  properly their in customer area  
